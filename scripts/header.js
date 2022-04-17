@@ -1,9 +1,9 @@
 
 var signUpLink = document.getElementById("signUpLink");
-var signUpBtn = document.getElementById("signUp");
-var signInBtn = document.getElementById("signIn");
+var signUpBtn = document.getElementById("signUpBtn");
+var signInBtn = document.getElementById("signInBtn");
 
-var signUpModal = document.getElementById("modal-signUp");
+var signUpModal = document.getElementById("signUpModal");
 var signInModal = document.getElementById("signInModal");
 
 var closeSignIn = document.getElementById("closeSignIn");

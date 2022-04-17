@@ -2,7 +2,7 @@ var createPostBtn = document.getElementById("createPostBtn");
 
 var closeCreatePost = document.getElementById("createPost-close");
 
-var createPostModal = document.getElementById("createPost");
+var createPostModal = document.getElementById("createPostModal");
 
 
 closeCreatePost.addEventListener("click", () => closeModal(createPostModal));
